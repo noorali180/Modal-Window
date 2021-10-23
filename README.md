@@ -1,3 +1,3 @@
-# [Modal-Window](noorali-180.github.io/modal-window)
+# [Modal-Window](https://noorali-180.github.io/modal-window/)
 
 Tiny JAVASCRIPT project...
